@@ -8,7 +8,7 @@ using GameManager.Services;
 
 namespace GameManager.Controllers
 {
-    [Route("v1/player/")]
+    [Route("api/player/")]
     [ApiController]
     public class PlayerController : Controller
     {
